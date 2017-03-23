@@ -1,0 +1,166 @@
+
+pack.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg1
+  rotate: false
+  xy: 2, 20
+  size: 301, 479
+  orig: 301, 479
+  offset: 0, 0
+  index: -1
+buttonDown
+  rotate: false
+  xy: 755, 428
+  size: 201, 72
+  orig: 201, 72
+  offset: 0, 0
+  index: -1
+buttonUp
+  rotate: false
+  xy: 755, 207
+  size: 199, 71
+  orig: 199, 71
+  offset: 0, 0
+  index: -1
+eratcNinja
+  rotate: false
+  xy: 305, 171
+  size: 448, 328
+  orig: 448, 328
+  offset: 0, 0
+  index: -1
+mainBg
+  rotate: false
+  xy: 644, 502
+  size: 301, 479
+  orig: 301, 479
+  offset: 0, 0
+  index: -1
+planeB1
+  rotate: false
+  xy: 755, 132
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+planeB2
+  rotate: false
+  xy: 845, 132
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+planeB3
+  rotate: false
+  xy: 751, 57
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+pow
+  rotate: false
+  xy: 2, 501
+  size: 640, 480
+  orig: 640, 480
+  offset: 0, 0
+  index: -1
+resetDown
+  rotate: false
+  xy: 755, 354
+  size: 201, 72
+  orig: 201, 72
+  offset: 0, 0
+  index: -1
+resetUp
+  rotate: false
+  xy: 305, 8
+  size: 199, 71
+  orig: 199, 71
+  offset: 0, 0
+  index: -1
+ruby1
+  rotate: false
+  xy: 947, 563
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ruby2
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ruby3
+  rotate: false
+  xy: 935, 189
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ruby4
+  rotate: false
+  xy: 707, 63
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ruby5
+  rotate: false
+  xy: 841, 114
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ruby6
+  rotate: false
+  xy: 947, 545
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+scoreDown
+  rotate: false
+  xy: 755, 280
+  size: 201, 72
+  orig: 201, 72
+  offset: 0, 0
+  index: -1
+scoreUp
+  rotate: false
+  xy: 506, 8
+  size: 199, 71
+  orig: 199, 71
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 305, 81
+  size: 444, 88
+  orig: 444, 88
+  offset: 0, 0
+  index: -1
+tube
+  rotate: false
+  xy: 947, 581
+  size: 65, 400
+  orig: 65, 400
+  offset: 0, 0
+  index: -1
+
+pack2.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ground
+  rotate: false
+  xy: 2, 2
+  size: 300, 150
+  orig: 300, 150
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1 @@
+java -cp C:\Dev\gdx.jar;C:\Dev\gdx-tools.jar com.badlogic.gdx.tools.texturepacker.TexturePacker C:\Users\USER\Desktop\JumpGame\Unpacked_External_Assets C:\Users\USER\Desktop\JumpGame\android\assets
